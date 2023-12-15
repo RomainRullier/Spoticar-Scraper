@@ -8,9 +8,9 @@ st.set_page_config(page_title="Spoticar Scraper", page_icon="🚙", layout="wide
 
 st.sidebar.markdown(
     """
-    Cette application récupère les données des voitures d'occasion sur le site [Spoticar](https://www.spoticar.fr/voitures-occasion) et les affiche dans un tableau, avec différents filtres.
+    Cette application récupère les données des voitures d'occasion sur le site [Spoticar](https://www.spoticar.fr/voitures-occasion). Elles sont ensuite téléchargeables au format CSV après leurs générations. Ces données sont aussi stockés dans un historique de collecte.
 
-    Elle utilise le framework [Streamlit](https://www.streamlit.io/) pour la partie scraping, afin de collecter un volume important de données de manière efficace et structurée.
+    L'application utilise le framework [Scrapy](https://docs.scrapy.org/en/latest/) pour la partie scraping, afin de collecter un volume important de données de manière efficace et structurée.
     """
 )
 
