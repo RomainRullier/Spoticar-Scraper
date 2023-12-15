@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy==1.4.0
+uvicorn
+fastapi
+scrapy
