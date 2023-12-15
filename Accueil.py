@@ -16,7 +16,10 @@ st.sidebar.markdown(
 
 st.sidebar.info(
     """
-    👨‍💻 **Auteur:** [Romain Rullier](https://www.linkedin.com/in/romain-rullier-78120/);
+    👨‍💻 **Développement:** \n [Romain_Rullier](https://www.linkedin.com/in/romain-rullier-78120/)\n
+    📧 **Contact:** [romain.rullier57@gmail.com](mailto:romain.rullier57@gmail.com)\n
+    🌐 **Application Web:** [spoticar-scraper.app](https://spoticar-scraper.streamlit.app/)\n
+    📄 **GitHub Projet:** [RomainRullier](https://github.com/RomainRullier/Spoticar-Scraper)
     """
 )
 
